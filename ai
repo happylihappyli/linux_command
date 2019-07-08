@@ -1,0 +1,18 @@
+#!/bin/bash
+#put this file in /usr/bin/
+#and +x 
+#把这个文件放到 /usr/bin/
+#并且添加执行权限
+
+
+echo ""
+echo ""
+echo ""
+echo "===============linux 命令翻译 ==============="
+echo "https://www.funnyai.com/funnyai/index.php?id=21"
+echo "============================================="
+echo ""
+echo ""
+echo ""
+
+/root/linux_command -word "$1"
